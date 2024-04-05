@@ -343,8 +343,9 @@ int main() {
 }
 ```
 # OUTPUT 
-![Screenshot 2024-04-05 105348](https://github.com/Harsayazheni/Ex-1-NFA-to-DFA/assets/118708467/70ae281e-c0ee-4fcb-a76b-0917c2a4a04b)
-![Screenshot 2024-04-05 105406](https://github.com/Harsayazheni/Ex-1-NFA-to-DFA/assets/118708467/4083becd-7727-4b0f-a35d-05dbc81d1ebf)
+![image](https://github.com/sabithapaulraj/Ex-1-NFA-to-DFA/assets/118343379/b074cc3f-48b9-46ca-8c9f-88b0dce4adf2)
+![image](https://github.com/sabithapaulraj/Ex-1-NFA-to-DFA/assets/118343379/ed1b47a6-3706-425e-998c-6b351e119c8a)
+
 
 # RESULT
 The program was sucessfully converted from NFA to DFA.
